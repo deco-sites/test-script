@@ -4,7 +4,7 @@
 
     "$store/": "./",
     "deco/": "https://denopkg.com/deco-cx/deco@1.41.6/",
-    "apps/": "https://denopkg.com/deco-cx/apps@31332abea71bc11794859047c4b1875f78b4ff4b/",
+    "apps/": "https://denopkg.com/deco-cx/apps@3be16a5b83dcfa8a5d7f8692bb20e7bcb44d4b49/",
     "$fresh/": "https://denopkg.com/deco-cx/fresh@1.4.4/",
     "preact": "https://esm.sh/preact@10.15.1",
     "preact/": "https://esm.sh/preact@10.15.1/",
